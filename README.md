@@ -1,10 +1,10 @@
-# Your Theme Name
+# PortfoX
 
 ![Theme Logo](link-to-your-logo.png)
 
 ## Description
 
-Briefly describe your WordPress theme, its features, and its purpose.
+Basic WordPress portfolio theme
 
 ## Features
 
